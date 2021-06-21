@@ -1,0 +1,4 @@
+filesystem.squashfs
+new_filesystem.squashfs
+squashfs-root
+*.qcow2
